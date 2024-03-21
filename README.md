@@ -10,6 +10,15 @@ Xolotl Time Controller é um aplicativo voltado a tarefas que envolvam tempo. Es
 - [ ] Cronometro
 - [ ] Contador Regressivo
 
+## Tecnologias Usadas
+
+Lista de tecnologias, libs e etc usadas para a construção deste app.
+
+- React
+  - Vite
+  - Styled-Components
+- Pnpm
+
 ## Referências
 
 Códigos, apps, libs e tudo mais foi usado como inspiração, referência ou está dentro do app.
