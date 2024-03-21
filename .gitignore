@@ -12,6 +12,7 @@ dist
 dist-ssr
 *.local
 temp
+*.bak
 
 # Editor directories and files
 .vscode/*
