@@ -3,10 +3,11 @@ import ReactDOM from 'react-dom/client';
 
 import GlobalStyles from './styles/GlobalStyles';
 
+import { Routes } from './routes';
+
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
     <GlobalStyles />
-
-    <h1>Xolotl Time Controller</h1>
+    <Routes />
   </React.StrictMode>,
 );
